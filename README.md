@@ -1,6 +1,6 @@
 # Sync-audio-images-frames
 
-This is a script to generate frames audio, and image files from a video file in sync.
+This is a script to generate frames for audio, and image files from a video file in sync.
 
 # How to use
 1. Install Requirements: ```pip install -r requirements.txt```
