@@ -23,7 +23,7 @@ Ensure you have Python installed on your system. If not, download and install it
    Clone this repository to your local machine to get started.
 
    ```bash
-   git clone https://github.com/CreativeSelf0/synced-audio-frame-extractor.git
+   git clone https://github.com/CreativeSelf0/Synced-Audio-Frame-Extractor.git
    cd synced-audio-frame-extractor
    ```
 
