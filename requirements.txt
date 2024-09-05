@@ -1,5 +1,5 @@
 moviepy==1.0.3
 numpy==1.24.4
-opencv_python==4.8.0.76
+opencv_python==4.8.1.78
 soundfile==0.12.1
 tqdm==4.66.1
